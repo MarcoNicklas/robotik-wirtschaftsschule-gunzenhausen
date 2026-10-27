@@ -1,0 +1,57 @@
+{
+  "stand": "2026-10-27",
+  "bereiche": [
+    {
+      "id": "spike",
+      "name": "LEGO SPIKE Prime",
+      "kurs": "Basiskurs",
+      "text": "Einstieg in die Robotik: Roboter nach Anleitung bauen, mit Programmierblöcken steuern und testen."
+    },
+    {
+      "id": "fischertechnik",
+      "name": "fischertechnik ROBOTICS TXT 4.0",
+      "kurs": "Vertiefungskurs",
+      "text": "Modelle aus der Industrie bauen und mit ROBO Pro Coding programmieren – zuerst mit Blöcken, dann in Python."
+    },
+    {
+      "id": "pib",
+      "name": "pib – humanoider Roboter",
+      "kurs": "Großprojekt",
+      "text": "Klassenübergreifend bauen wir den Open-Source-Roboter pib: Bauteile aus dem 3D-Drucker, Elektronik und Programmierung."
+    }
+  ],
+  "anwendungen": [
+    {
+      "id": "spike-fahrroboter",
+      "bereich": "spike",
+      "titel": "Unser erster Fahrroboter",
+      "zeitraum": "Schuljahr 2026/27",
+      "text": "Im Basiskurs haben wir einen Fahrroboter mit LEGO SPIKE Prime gebaut. Die Bauanleitung lief auf dem Tablet, programmiert wurde mit Wortblöcken. Anschließend musste der Roboter einen Parcours im Schulhaus abfahren.",
+      "bilder": [
+        { "datei": "bilder/spike-fahrroboter.jpg", "text": "Der fertige Fahrroboter mit SPIKE-Prime-Hub" }
+      ],
+      "links": []
+    },
+    {
+      "id": "fischertechnik-start",
+      "bereich": "fischertechnik",
+      "titel": "Start im Vertiefungskurs",
+      "zeitraum": "Schuljahr 2026/27",
+      "text": "Mit sieben fischertechnik-Baukästen und dem Controller ROBOTICS TXT 4.0 bauen wir Modelle, wie sie auch in Fabriken arbeiten. Die Theorie lernen wir selbstständig mit einer Lern-App, in der nächsten Stunde setzen wir sie direkt am Modell um.",
+      "bilder": [],
+      "links": []
+    },
+    {
+      "id": "pib-start",
+      "bereich": "pib",
+      "titel": "Ein humanoider Roboter entsteht",
+      "zeitraum": "Schuljahr 2026/27",
+      "text": "Wie in einem echten Unternehmen: Die 7. Klassen drucken im Fach Mensch und Umwelt die Bauteile, das Wahlmodul Robotik verkabelt die Elektronik und programmiert den Roboter. Unterstützt wird das Projekt von Unternehmen aus Gunzenhausen.",
+      "bilder": [],
+      "links": [
+        { "text": "Bericht auf der Schulhomepage", "url": "https://www.bs-af.de/wirtschaftsschule-am-puls-der-zeit-klassenuebergreifendes-roboter-projekt-verbindet-praxis-technik-und-berufsleben/" },
+        { "text": "Was ist pib?", "url": "https://pib.rocks/de/" }
+      ]
+    }
+  ]
+}
